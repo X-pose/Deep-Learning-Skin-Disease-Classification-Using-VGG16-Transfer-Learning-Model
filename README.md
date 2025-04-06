@@ -1,0 +1,2 @@
+# Deep-Learning-Skin-Disease-Classification-Using-VGG16-Transfer-Learning-Model
+A high-performance deep learning model for classifying 17 skin diseases with VGG16 architecture. Achieves excellent recall (1.00) across all classes with a macro-averaged F1 score of 0.92. Implements data augmentation, class weight balancing, and custom classifier layers for optimal results in dermatological image classification.
