@@ -119,5 +119,4 @@ The model achieves impressive performance metrics, particularly with high recall
 - Develop a user-friendly interface for clinical use
 
 ## License
-Apache License 2.0
-
+Apache-2.0 license
