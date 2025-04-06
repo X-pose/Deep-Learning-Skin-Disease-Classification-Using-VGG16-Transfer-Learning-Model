@@ -3,8 +3,7 @@
 A deep learning model for classifying 17 different skin diseases using a customized VGG16 architecture.
 
 ## Author
-- **Name:** Thalangama T.P.
-- **IT Number:** IT21223594
+- **Name:** Thathsara Pramodya Thalangama
 
 ## Project Overview
 This project implements a skin disease classification system using transfer learning with the VGG16 architecture. The model is designed to classify 17 different skin conditions with high accuracy and recall, making it potentially valuable for medical diagnostic assistance.
